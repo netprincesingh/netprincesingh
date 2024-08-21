@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @netprincesingh
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python & JavaScript
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.princesingh.net
+- 📫 How to reach me https://www.linkedin.com/in/netprincesingh/
 
 <!---
 netprincesingh/netprincesingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
