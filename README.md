@@ -43,14 +43,6 @@ I am a product-focused software engineer specializing in cross-platform mobile a
 - **Notification Pipelines:** Built a targeted Firebase Cloud Messaging (FCM) integration to distribute automated event-driven push notifications at scale.
 - **Release Engineering:** Handled the absolute end-to-end deployment lifecycle, optimizing bundle sizes and managing build configurations for successful release execution on the Google Play Store.
 
----
-
-## 📈 Git Activity & Metrics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=netprincesingh&show_icons=true&theme=transparent&hide_border=true" alt="Prince's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netprincesingh&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
